@@ -1,6 +1,6 @@
 [submodule "osvvm"]
 	path = osvvm
-	url = https://github.com/OSVVM/OSVVM.git
+	url = git@github.com:klangthomas/OSVVM.git
 [submodule "Common"]
 	path = Common
 	url = https://github.com/OSVVM/OSVVM-Common.git
